@@ -99,6 +99,14 @@ Everything you need to learn in chronological order to become a professional Ang
 - [Netanel Basal - Advanced Practical Tutorials](https://netbasal.com/@NetanelBasal)
 - [Full Stack Contacts Book example app (Components, Services, Routing, Http, Forms, Lazy loading, Sockets, NGRX State management, NGRX HTTP+Socket.IO Side Effects management, NGRX Entity management...)](https://github.com/avatsaev/angular-contacts-app-example)
 
+### Udemy Courses:
+- [Learn Angular 4 from Scratch](https://www.udemy.com/course/learn-angular-from-scratch/learn/lecture/6761078#overview)
+- [ASP.NET Zero: Building Single-Page Applications with ASP.NET Core & Angular](https://www.udemy.com/course/aspnet-zero-aspnet-core-angular/learn/lecture/14426080?start=0#overview)
+- [Angular for Beginners Course (Includes FREE E-Book)](https://www.udemy.com/course/angular-for-beginners-course/learn/lecture/12852496?start=0#overview)
+- [Angular Fast Crash Course](https://www.udemy.com/course/angular-fast-crash-course/learn/lecture/8168076?start=0#overview)
+- [Learn Angular 5 from Scratch](https://www.udemy.com/course/angular-5/learn/lecture/8508036?start=0#overview)
+- [Getting Started with Angular 2+](https://www.udemy.com/course/getting-started-with-angular-2/learn/lecture/6963462?start=0#overview)
+
 
 
 
