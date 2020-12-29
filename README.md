@@ -119,7 +119,11 @@ Everything you need to learn in chronological order to become a professional Ang
 9. Enum
 10. Route
 
-### String interpolation: {{ title }} \
-### Property binding: <input [required]='expression'> \
-### Event binding: <button (click)='expression/function> 
+### String interpolation: {{ title }}
+### Property binding: <input [required]='expression'>
+### Event binding: <button (click)='expression/function>
+### Two-way binding: <input [(ngModel)]='model/object'>
+
+### @Input() = expected props (from parent)
+### @Output() = pass data (from child to parent)
 
