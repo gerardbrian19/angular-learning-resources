@@ -107,7 +107,17 @@ Everything you need to learn in chronological order to become a professional Ang
 - [Learn Angular 5 from Scratch](https://www.udemy.com/course/angular-5/learn/lecture/8508036?start=0#overview)
 - [Getting Started with Angular 2+](https://www.udemy.com/course/getting-started-with-angular-2/learn/lecture/6963462?start=0#overview)
 
-
+### Component Types
+1. Component
+2. Service
+3. Directive
+4. Module
+5. Pipe
+6. Guard
+7. Interface
+8. Class
+9. Enum
+10. Route
 
 
 
