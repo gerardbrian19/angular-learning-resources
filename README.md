@@ -119,5 +119,7 @@ Everything you need to learn in chronological order to become a professional Ang
 9. Enum
 10. Route
 
-
+### String interpolation: {{ title }} \
+### Property binding: <input [required]='expression'> \
+### Event binding: <button (click)='expression/function> 
 
