@@ -126,4 +126,4 @@ Everything you need to learn in chronological order to become a professional Ang
 
 ### @Input() = expected props (from parent)
 ### @Output() = pass data (from child to parent)
-
+### | (pipe) = how the data will display (filters/uppercases etc.)
